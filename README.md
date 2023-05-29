@@ -10,6 +10,8 @@ Calculadora de IMC utilizando HTML, CSS e JavaScript.
 
 - https://fontawesome.com/
 
+- Google Fonts
+
 - CSS
 
 - HTML
@@ -19,3 +21,11 @@ Calculadora de IMC utilizando HTML, CSS e JavaScript.
 ## ⚙️ Executando os testes:
 
 - Extensão Live Server (VSCode)
+
+- Extensão Mobile Simulator (Google Chrome)
+
+## ❤️ Visualização:
+
+![](/showme_mobile.png)
+
+![](/showme_web.png)
